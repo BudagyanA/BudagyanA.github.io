@@ -1,0 +1,11 @@
+!table
+!version 300
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 4
+    Code Char (10) ;
+    Name_west Char (20) ;
+    Name_rus Char (20) ;
+    Name_fin Char (20) ;
